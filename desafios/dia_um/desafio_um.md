@@ -1,0 +1,2 @@
+### Validação de CPF
+Escreva uma função em JavaScript que receba um CPF como string e verifique se ele é válido. O CPF é válido se a sequência numérica estiver correta e se os dígitos verificadores forem válidos.
